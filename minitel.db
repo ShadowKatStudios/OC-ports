@@ -2,4 +2,5 @@ mmail	25	SKS	https://github.com/ShadowKatStudios/OC-Minitel/blob/master/MMail/MM
 realtime	37	SKS	https://github.com/ShadowKatStudios/OC-Minitel/tree/master/realtime
 frequest	70	SKS	https://github.com/ShadowKatStudios/OC-Minitel/blob/master/FRequest/FRequest-protocol.md
 syslog	514	SKS	https://github.com/ShadowKatStudios/OC-Minitel/blob/master/syslog/syslog-protocol.md
+lilac-rpc	8675	AmandaC	https://gitlab.darkdna.net/amanda/oc-fileserver/tree/master/lilac
 zlan	9900	AdorableCatgirl	https://github.com/Adorable-Catgirl/Random-OC-Docs/blob/master/protocols/zlan
