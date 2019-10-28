@@ -4,7 +4,7 @@ OC-ports provides a database and library for using said database to cross-refere
 
 ## API
 
-The portinfo API provides one funciton:
+The portinfo API provides one function:
 
     portinfo.search(*query*, [*database*]) table: result
 
