@@ -6,7 +6,7 @@ OC-ports provides a database and library for using said database to cross-refere
 
 The portinfo API provides one funciton:
 
-    search(*query*, [*database*]) table: result
+    portinfo.search(*query*, [*database*]) table: result
 
 The search() function takes your *query* - either a string or a port number - and searches the database, defaulting to the OC ports database, for your query, returning the first result as a table in the format:
 
